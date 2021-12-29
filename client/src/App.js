@@ -21,7 +21,7 @@ function App() {
     <ContextProvider value={{ user }}>
     <Router>
       <Navbar />
-      {/* <Route /> */}
+      <Route />
     </Router>
     // </ContextProvider>
   );
